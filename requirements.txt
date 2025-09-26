@@ -1,6 +1,6 @@
-flask
-waitress
 libretranslate
+gunicorn
+flask
 langdetect
 numpy
 fasttext
