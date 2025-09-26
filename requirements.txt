@@ -1,0 +1,8 @@
+flask
+waitress
+libretranslate
+langdetect
+numpy
+fasttext
+sacrebleu
+requests
